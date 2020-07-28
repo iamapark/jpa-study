@@ -1,0 +1,19 @@
+/target/
+*.classpath
+*.project
+.settings/
+bin/
+*.iml
+.idea/
+*/target/
+*/deploy/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.out
+*.pid
